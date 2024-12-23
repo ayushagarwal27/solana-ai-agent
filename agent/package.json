@@ -43,6 +43,7 @@
     "@ai16z/plugin-nft-generation": "workspace:*",
     "@ai16z/plugin-node": "workspace:*",
     "@ai16z/plugin-solana": "workspace:*",
+    "@ai16z/plugin-devschool": "workspace:*",
     "@ai16z/plugin-starknet": "workspace:*",
     "@ai16z/plugin-ton": "workspace:*",
     "@ai16z/plugin-sui": "workspace:*",
